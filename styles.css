@@ -20,6 +20,7 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
+  scroll-behavior: smooth;
 }
 
 .topbar {
@@ -105,17 +106,26 @@ h2 {
 
 #routeNav {
   display: grid;
-  gap: 8px;
+  gap: 12px;
 }
 
 #routeNav a {
   display: block;
-  padding: 9px 10px;
   border-left: 3px solid transparent;
   color: var(--muted);
-  font-size: 13px;
   line-height: 1.35;
   text-decoration: none;
+}
+
+.nav-section {
+  padding: 9px 10px;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.nav-stop {
+  padding: 5px 10px 5px 18px;
+  font-size: 12px;
 }
 
 #routeNav a:hover {
@@ -140,6 +150,7 @@ h2 {
 .section {
   max-width: 980px;
   margin: 0 0 34px;
+  scroll-margin-top: 100px;
 }
 
 .section-title {
@@ -154,6 +165,7 @@ h2 {
   gap: 10px;
   padding: 18px 0;
   border-top: 1px solid var(--line);
+  scroll-margin-top: 100px;
 }
 
 .stop:first-of-type {
