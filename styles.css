@@ -74,6 +74,20 @@ h1 {
 }
 
 .toc-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 54px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+}
+
+body.toc-collapsed main {
+  grid-template-columns: 1fr;
+}
+
+body.toc-collapsed .route-panel {
   display: none;
 }
 
@@ -265,16 +279,6 @@ h2 {
   button {
     min-height: 32px;
     font-size: 13px;
-  }
-
-  .toc-toggle {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    min-width: 54px;
-    padding: 0 10px;
-    border: 1px solid var(--line);
-    background: var(--panel);
   }
 
   main {

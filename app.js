@@ -192,8 +192,16 @@ document.querySelectorAll(".lang-switch button").forEach((button) => {
 
 document.querySelector(".toc-toggle").addEventListener("click", () => {
   const panel = document.querySelector("#routePanel");
-  const isOpen = panel.classList.toggle("open");
-  document.querySelector(".toc-toggle").setAttribute("aria-expanded", String(isOpen));
+  const isMobile = window.matchMedia("(max-width: 760px)").matches;
+
+  if (isMobile) {
+    const isOpen = panel.classList.toggle("open");
+    document.querySelector(".toc-toggle").setAttribute("aria-expanded", String(isOpen));
+    return;
+  }
+
+  const isCollapsed = document.body.classList.toggle("toc-collapsed");
+  document.querySelector(".toc-toggle").setAttribute("aria-expanded", String(!isCollapsed));
 });
 
 document.querySelector("#routeNav").addEventListener("click", (event) => {
