@@ -1,0 +1,453 @@
+cmu.edu/visit
+One square = approx 425' or 130 m. (Updated 8-12-2024)
+S. Neville St
+ 
+CIC Dr
+N. Neville St 
+S. Craig St
+ 
+N. Craig St 
+Morewood Ave 
+Morewood Ave 
+Devon Rd
+S. Dithridge St
+ 
+Beeler St 
+S. Belleﬁeld St
+ 
+Schenley Dr
+Frew St
+Boundary St
+Tech St
+Margaret Morrison St
+FORBES AVE
+FIFTH AVE
+FIFTH AVE
+FIFTH AVE
+FORBES AVE
+FORBES AVE
+FORBES AV
+E
+Henry St
+Winthrop St
+Filmore St
+Clyde St
+RailroadTracks
+Gesling
+Stadium
+Schenley
+Park
+Carnegie
+Museum of Art
+Carnegie 
+Museum of
+Natural History
+Tennis
+Courts
+Soccer Field
+The Mall
+The Cut
+West Quad
+CFA
+Lawn
+Central
+Catholic
+High
+School
+  Tepper 
+Quad
+Margaret Morrison St. Parkin
+g
+Tech St. Parking
+A C E G IB D F H
+A C E G IB D F H
+1
+3
+5
+2
+4
+6
+7
+1
+3
+5
+2
+4
+6
+7
+GQ
+WS
+EN
+LP
+US
+HO
+PB
+FE
+CS
+WE
+HP WH
+BR
+AH
+ZW
+FRB 
+HY
+FRB 
+MC FCLFCL
+SN
+FR
+AH
+GQ
+PH
+BH
+HL
+WEH
+SC
+HH
+AN
+DH
+PC
+FRM
+PG
+MM
+WH
+CIC
+FM
+WQ
+INI
+UT
+RA
+SEI
+MI
+CC
+4SC
+CA
+GL
+BR
+ADHU
+CFA
+HOA
+CUC
+CYH
+GHC
+HBH
+NSH
+POS
+PCA
+REH
+EDS
+TEP
+3SC
+2SC
+3SC
+CFA
+ML
+BOS
+CLY
+HIL
+NVL
+DON
+FAF
+ROF
+HAM
+HEN
+SCO
+WEL
+MCG MMA
+ROS
+SPT
+WOO
+MOE
+MOR
+MUD
+STE
+RES
+WWG
+WWG
+ROF
+DON
+CLY
+CIC
+GHC
+DS
+WC
+DI
+DN
+FIF
+FIF
+PO
+TCS
+ECG
+MOR
+FS
+OIE
+GQ
+N
+OSH
+SH
+DR
+FBA
+SM
+FB
+HR
+HMC
+UPD
+KC
+TEP
+TCS
+RKM
+DR
+HS
+
+ACADEMIC/ADMINISTRATIVE
+Alumni House .......................... AH G4
+ANSYS Hall ................................AN D6
+Baker Hall (DC) ........................ BH E6
+Bakery Square ..........................BK t
+Bramer House ..........................BR G3
+Cohon University Center ....CUC G5
+College of Fine Arts (CFA) ...CFA F6
+Cyert Hall .................................CYH E4
+Doherty Hall .............................DH E6
+Facilities Management  
+Services Building ...................FM D5
+FMS Roads & Grounds ...........FR C6
+Gates Center for 
+Computer Science (SCS) ... GHC E5
+Hall of the Arts .................... HOA F7
+Hamburg Hall (HC) ..............HBH D4
+Hamerschlag Hall ...................HH D6
+Highmark Center for Health, 
+Wellness and Athletics .... HMC G7
+Hillman Center for Future  
+Generation Technologies GHC E5
+Hunt Library ..............................HL F7
+Margaret Morrison 
+Carnegie Hall ........................MM G6
+Mehrabian Collaborative 
+Innovation Center .................CIC D4
+Mellon Institute (MCS)............MI A3
+Mill 19 .......................................M19 t
+National Robotics 
+Engineering Center ..............NR t
+Newell-Simon Hall ...............NSH D5
+Osher Lifelong Learning  
+Institute .................................OSH F4
+Pittsburgh Technology  
+Center ......................................PTC t
+Porter Hall................................. PH D6
+Posner Center ...........................PC F6
+Posner Hall .............................POS G6
+PPG 6 ...........................................PP t
+Purnell Center for the Arts PCA F5
+Rand Building ...........................RA B2
+Richard King Mellon Hall  
+of Sciences ...........................RKM C4
+Roberts Engineering Hall ...REH C6
+Scaife Hall (E) ............................SH C6
+Scott Hall .................................... SC D5
+Smith Hall.................................EDS D4
+Software Engineering 
+Institute ....................................SEI B2
+TCS Hall .....................................TCS C4
+Tepper Building (TSB) ...........TEP E3
+Warner Hall .............................WH F4
+Wean Hall ...............................WEH D5
+West Wing ............................WWG G5
+WQED Building .......................WQ E2
+205 S. Craig ..............................2SC C3
+300 S. Craig (Police)...............3SC B3
+311 S. Craig ................................CA C3
+407 S. Craig ..............................4SC C3
+417 S. Craig ................................CC C4
+4516 Henry ................................UT B3
+4609 Winthrop .........................GL C3 
+4615 Forbes ........................... FRB C4
+4616 Henry ...............................INI C3
+4620 Henry ...............................PO C2
+4721 Fifth Ave.  ........................MC D1
+477 Melwood Ave.  ...............MEL t
+6555 Penn ..................................PE t
+POINTS OF INTEREST
+Coulter Welcome Center ......WC D4
+Office of Undergraduate 
+Admission ...............................AD F4
+Center for Student Diversity  
+& Inclusion ................................DI G5 
+Dining Services ........................DN D2
+Disability Resources  ............. DR G7
+Entropy+ Convenience 
+Store ..........................................EN G5
+The Fence ....................................FE F6
+Fifth Avenue Neighborhood 
+Commons ...............................FCL D1
+The Frame Gallery ...............FRM I6 
+Housing Services ....................HO D2 
+The Hub .....................................HU F4
+Human Resources ..................HR B3 
+Kraus Campo ............................KC F7
+Legacy Plaza ..............................LP G5
+Miller ICA ...................................ML F5
+Office of International  
+Education  ..............................OIE E4
+Pausch Bridge ...........................PB E5
+Peace Garden ...........................PG F7
+Scotty’s Market ........................SM H4
+University Health Services ....HS G7 
+University Store .......................US F5
+Walking to the Sky ..................WS F4
+4551 Filmore (Police) ..........UPD B3
+RESIDENTIAL
+Boss House .............................BOS H6
+Clyde House ............................CLY D1
+Donner House .....................DON H6
+Fairfax Apartments ...............FAF C2
+Fifth and Clyde House ..........FCL D1
+Fifth Neville Apartments ......FIF D2
+Forbes Beeler Apartments ..FBA H4
+Greek Quad ..............................GQ G3
+Hamerschlag House ..........HAM H7
+Henderson House ...............HEN H7
+Highlands Apartments .........HIL D1
+Margaret Morrison Apartments 
+Greek Housing ...................MMA I6
+McGill House .........................MCG H6
+Morewood E-Tower ............MOE F3
+Morewood Gardens ..........MOR F3
+Mudge House ......................MUD F2
+Neville Apartments ..............NVL D1
+Residence on Fifth ................ROF D2 
+Resnik House ..........................RES H6
+Roselawn Terrace .................ROS I6
+Scobell House ........................SCO H7
+Spirit House .............................SPT I6
+Stever House........................... STE F2
+Welch House ..........................WEL H7
+West Wing ............................WWG G5
+Woodlawn Apartments.....WOO I6
+PARKING
+East Campus Garage ........... ECG H4  
+Dithridge St. Garage ...............DS B3 
+Gates Garage ........................GHC E5
+Mehrabian CIC Garage .........CIC D4
+Alumni House  ......................... AH G4
+Bramer House ..........................BR G3 
+Children’s School ..................... CS G6
+Clyde St. Lot ............................CLY D1
+Donner House .....................DON H6
+Fifth Neville............................... FIF D1
+Fine Arts Lot  .......................... CFA F6
+Forbes Beeler  ............................ FB H4
+Frew St.  .......................................FS E7
+GATF  ........................................FRB C3
+Greek Quad  .............................GQ G3 
+Hamburg Hall Lot ...................HP D4 
+Henry St.  ...................................HY C2 
+Margaret Morrison St. .................. H6
+Melwood Ave.  .......................MEL t 
+Morewood Lot  .................... MOR E3 
+Pittsburgh Technology  
+Center ....................................  PTC t
+South Neville Lot  ....................SN C6 
+TCS Garage ..............................TCS C3
+Tech St.  ........................................... 7G 
+Tepper Quad  ..........................TEP D4 
+Warner Hall  ............................WH F4 
+West Campus  ..........................WE E5 
+Zebina Way  ..............................ZW C3 
+300 S. Craig (Police)  .............3SC B3  
+4700 Fifth Ave.  ......................ROF D2 
+6555 Penn  .................................PE t
+KEY
+t Off campus
+ University Police
+ University Health Services
+ Parking Services Offices
+COLLEGES AND SCHOOLS 
+(Dean’s office locations)
+E College of Engineering
+CFA College of Fine Arts
+DC Dietrich College of 
+Humanities & Social 
+Sciences
+HC Heinz College of 
+Information Systems  
+and Public Policy
+MCS Mellon College of Science
+SCS School of  
+Computer Science
+TSB Tepper School  
+of Business
+t OFF CAMPUS
+TRANSPORTATION TO CAMPUS
+The Pittsburgh International 
+Airport (PIT) is 22 miles from 
+the Carnegie Mellon University 
+campus. Travel time to campus 
+is 45 minutes. Car rentals are 
+available at the airport.
+UBER, LYFT OR TAXI:  Average 
+taxi fare: $45.00. 
+HOTEL SHUTTLES:  (Highly 
+encouraged): Often offered  
+by hotels within a few miles  
+of campus.
+BUS:  28X Airport Flyer Bus (Port 
+Authority Transit), stops at the 
+Carnegie Mellon campus. Cost 
+is $2.75 each way (exact change 
+required) but free to students.
+PARKING ON CAMPUS
+East Campus Garage  
+GPS address: 5040 Forbes Ave., 
+Pittsburgh, PA 15213 
+At times the East Campus Garage 
+does fill. Additional metered 
+parking is available along Frew St., 
+Tech St., S. Craig St., Margaret 
+Morrison St. and near the Schenley 
+Park Visitor Center. 
+  View bicycle parking locations  
+at cmu.edu/bicycle-parking
+cmu.edu/visit
+   Visit our on-campus  
+dining locations at  
+cmu.edu/dining-locations
+MON O N G A HELA  RIVER
+I-279
+BIGELOW  BLVD
+I-376
+FIFTH
+SECOND
+BAUM
+PENN
+LIBERTY
+ROUTE 28
+ALLEGHENY RIVER
+BUTLER
+DOWNTOWN
+PITTSBURGH
+THE STRIP
+DISTRICT EAST
+LIBERTY
+SCHENLEY PARK
+SHADYSIDE
+OAKLAND
+BLOOMFIELD
+BRIDGE
+FOSTER
+40TH ST.
+EXTENSION
+SQUIRREL HILL
+40TH STREET
+BRIDGE
+FORBES
+CRAIG
+BLVD  OF  THE  ALLIES
+MOREWOOD
+PE
+NR
+PP
+MEL
+MEL BK
+PE
+M19PTC PTC
