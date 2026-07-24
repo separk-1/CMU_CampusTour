@@ -165,6 +165,8 @@ function render() {
     button.classList.toggle("active", button.dataset.lang === currentLang);
   });
 
+  document.querySelector(".toc-toggle").textContent = currentLang === "ko" ? "목차" : "Contents";
+
   renderNav();
   renderTour();
 }
@@ -186,6 +188,19 @@ document.querySelectorAll(".lang-switch button").forEach((button) => {
     currentLang = button.dataset.lang;
     render();
   });
+});
+
+document.querySelector(".toc-toggle").addEventListener("click", () => {
+  const panel = document.querySelector("#routePanel");
+  const isOpen = panel.classList.toggle("open");
+  document.querySelector(".toc-toggle").setAttribute("aria-expanded", String(isOpen));
+});
+
+document.querySelector("#routeNav").addEventListener("click", (event) => {
+  if (!event.target.closest("a")) return;
+  const panel = document.querySelector("#routePanel");
+  panel.classList.remove("open");
+  document.querySelector(".toc-toggle").setAttribute("aria-expanded", "false");
 });
 
 init().catch((error) => {

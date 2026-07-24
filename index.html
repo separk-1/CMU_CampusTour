@@ -8,18 +8,21 @@
   </head>
   <body>
     <header class="topbar">
-      <div>
+      <div class="brand">
         <p class="eyebrow">CMU Campus Tour</p>
         <h1>Carnegie Mellon Campus Route</h1>
       </div>
-      <div class="lang-switch" aria-label="Language">
-        <button class="active" data-lang="ko" type="button">KR</button>
-        <button data-lang="en" type="button">EN</button>
+      <div class="header-actions">
+        <button class="toc-toggle" type="button" aria-expanded="false" aria-controls="routePanel">목차</button>
+        <div class="lang-switch" aria-label="Language">
+          <button class="active" data-lang="ko" type="button">KR</button>
+          <button data-lang="en" type="button">EN</button>
+        </div>
       </div>
     </header>
 
     <main>
-      <aside class="route-panel">
+      <aside class="route-panel" id="routePanel">
         <div class="route-panel__inner">
           <h2 data-copy="routeTitle">Route</h2>
           <nav id="routeNav" aria-label="Campus tour route"></nav>
@@ -29,7 +32,7 @@
       <section class="content">
         <div class="intro">
           <p class="tour-meta"><strong>7/24/2026 CMU&amp;Pitt Campus Tour</strong></p>
-          <p class="tour-meta"><strong>Seongeun Park (seongeup@andrew.cmu.edu)</strong></p>
+          <p class="tour-author">Seongeun Park (seongeup@andrew.cmu.edu)</p>
         </div>
         <div id="tour"></div>
       </section>
