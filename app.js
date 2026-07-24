@@ -1,12 +1,10 @@
 const copy = {
   ko: {
     routeTitle: "목차",
-    intro: "CMU 캠퍼스 투어 내용을 한글과 영어로 전환해 볼 수 있습니다.",
     map: "Google Map",
   },
   en: {
     routeTitle: "Contents",
-    intro: "Switch between Korean and English versions of the CMU campus tour.",
     map: "Google Map",
   },
 };

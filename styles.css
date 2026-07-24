@@ -147,6 +147,10 @@ h2 {
   line-height: 1.65;
 }
 
+.tour-meta {
+  margin: 0;
+}
+
 .section {
   max-width: 980px;
   margin: 0 0 34px;
