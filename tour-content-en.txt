@@ -1,0 +1,338 @@
+1. Introduction
+2. [North] Business & Computer Science
+→ 2.1 Tepper Quad (Coulter Welcome Center)
+→ 2.2 Gates and Hillman Centers
+→ 2.3 Randy Pausch Memorial Bridge
+→ 2.4 Purnell Center for the Arts
+→ 2.5 Warner Hall
+
+3. [Central] Main Plaza and Student Amenities
+→ 3.1 Walking to the Sky
+→ 3.2 Cohon University Center (University Store)
+
+4. [South] Athletic Facilities
+→ 4.1 Highmark Center
+→ 4.2 Gesling Stadium
+
+5. [East] Core Campus, Arts, and Architecture
+→ 5.1 Margaret Morrison Carnegie Hall
+→ 5.2 Posner Hall
+→ 5.3 Kraus Campo
+→ 5.4 College of Fine Arts
+→ 5.5 Hunt Library
+→ 5.6 The Fence & The Cut
+
+6. [West] Engineering
+→ 6.1 The Mall & Doherty Hall
+→ 6.2 Baker Hall & Porter Hall
+→ 6.3 Hamerschlag Hall
+→ 6.4 Wean Hall
+→ 6.5 ANSYS Hall
+→ 6.6 Scaife Hall
+
+7. [Off Campus] Pittsburgh Landmarks
+→ 7.1 Phipps Conservatory, Panther Hollow, and Schenley Park
+→ 7.2 Schenley Plaza
+→ 7.3 Carnegie Complex
+
+8. [University of Pittsburgh]
+→ 8.1 Hillman Library
+→ 8.2 Cathedral of Learning
+→ 8.3 Heinz Memorial Chapel
+→ 8.4 William Pitt Union
+→ 8.5 Pitt Bookstore
+
+1. General Introduction
+
+1.1 Founding and Development of the University
+
+Carnegie Mellon University began as the Carnegie Technical Schools, founded in 1900 by steel industrialist Andrew Carnegie to provide vocational education for the children of Pittsburgh’s working-class families.
+
+In 1912, the institution became the Carnegie Institute of Technology, commonly known as Carnegie Tech, and began granting four-year degrees. In 1967, it merged with the Mellon Institute of Industrial Research, which had been founded by the Mellon family, and became Carnegie Mellon University. Because of this history, the influence of both the Carnegie and Mellon families can be seen throughout the campus in the names of buildings and facilities. The university’s email addresses use the domain andrew.cmu.edu, named after the founders. (Andrew Carnegie and Andrew Mellon)
+
+CMU has approximately 16,000 students, including about 7,000 undergraduate students and 9,000 graduate students. Compared with large public universities, it is relatively small, and one of its distinguishing features is that it has more graduate students than undergraduates.
+
+For comparison, the University of Pittsburgh has approximately 30,000 students, including about 10,000 undergraduates, while Texas A&M University has approximately 77,000 students, including about 60,000 undergraduates.
+
+1.2 Academic Characteristics
+
+CMU actively promotes interdisciplinary research. It does not have schools of medicine, law, dentistry, pharmacy, nursing, agriculture, or education.
+
+The Dietrich College of Humanities and Social Sciences includes not only traditional humanities and social science disciplines, but also programs related to statistics and data science. In English studies, the university is highly regarded for technical writing and rhetoric, especially research on communicating technical content in ways that general audiences can understand.
+
+The Department of Philosophy studies logic and computability, as well as issues related to artificial intelligence, judgment, and decision-making. Linguistics also focuses on how machines can understand human language. Within the School of Computer Science, the Language Technologies Institute operates as a separate institute.
+
+1.3 Notable Alumni and Figures
+
+James Gosling: Earned a Ph.D. in computer science from CMU and developed the Java programming language.
+
+John Nash: A mathematician and Nobel laureate in economics known as the real-life subject of the film A Beautiful Mind. He earned both his bachelor’s and master’s degrees from CMU.
+
+Andy Warhol: A leading figure in Pop Art who graduated from CMU’s College of Fine Arts.
+
+Ethan Hawke, Holly Hunter, and Patrick Wilson: Actors who attended CMU’s School of Drama and have received multiple nominations for Academy Awards and major theater and film awards.
+
+Luis von Ahn: Earned a Ph.D. in computer science from CMU and developed CAPTCHA technology and Duolingo.
+
+Scott Fahlman: A CMU professor known for first proposing the :-) emoticon.
+
+1.4 Major Academic Fields
+
+CMU’s computer science and robotics programs are regarded as being among the best in the United States, alongside MIT, Stanford University, and UC Berkeley. The university played an important role in developing artificial intelligence as an independent academic discipline and is also known for establishing the world’s first degree program in human-computer interaction, the Robotics Institute, and a department of machine learning.
+
+Its arts and drama programs are also highly regarded. CMU was the first university in the United States to offer a degree in drama and is considered one of the country’s leading drama schools, alongside institutions such as the Juilliard School. It has produced numerous Tony Award and Academy Award winners and nominees.
+
+The Tepper School of Business is considered one of the leading U.S. business schools in quantitative analysis, operations management, and production management, with a strong emphasis on data and mathematics.
+
+CMU is distinctive in that both engineering and the fine arts are highly developed. The Department of Civil and Environmental Engineering focuses not only on traditional construction fields, but also on smart infrastructure, digital twins, and interdisciplinary research.
+
+2. Business and Computer Science Area
+
+2.1 Tepper Quad
+Tepper School of Business and Coulter Welcome Center
+
+Tepper Quad was built with a donation from David Tepper, the founder of the hedge fund Appaloosa Management and an alumnus of CMU’s business school. Tepper received his MBA from CMU in 1982 and donated $67 million toward the construction of the building.
+
+The former business school building, Posner Hall, was relatively isolated at the edge of campus. When Tepper Quad was completed in 2018, the business school moved to its current location.
+
+The central architectural concept is interconnectedness. A large glass atrium serves as the core of the building, while open glass walls and spacious common areas are designed to encourage students from business, engineering, computer science, and the arts to meet and interact naturally.
+
+2.2 Gates and Hillman Centers
+Gates Center for Computer Science and Hillman Center for Future-Generation Technologies
+
+The Gates and Hillman Centers were completed in 2009 with a $20 million donation from the Bill & Melinda Gates Foundation and a $10 million donation from Pittsburgh philanthropist Henry Hillman.
+
+Rather than completely leveling the site, which was originally a steep valley, the building was constructed to take advantage of the existing slope. Its exterior is clad in asymmetrical zinc panels.
+
+Inside is the Helix, a spiral ramp approximately 630 feet long that connects the third through fifth floors. It was designed to encourage researchers to leave their offices and encounter one another informally while moving through the building.
+
+This area also contains facilities related to human-computer interaction research. CMU was the first university to establish departments in machine learning and human-computer interaction.
+
+2.3 Randy Pausch Memorial Bridge
+
+The Randy Pausch Memorial Bridge was built in memory of the late Randy Pausch, a professor in CMU’s School of Computer Science.
+
+After being diagnosed with terminal pancreatic cancer, Pausch delivered The Last Lecture, in which he discussed his childhood dreams and lessons about life. The lecture later became widely known around the world.
+
+The bridge connects the Gates and Hillman Centers, which house computer science, with the Purnell Center for the Arts. It symbolizes Pausch’s philosophy of bringing technology and the arts together. At night, LED lights installed along the bridge are illuminated.
+
+The aluminum panels on the bridge railing contain penguin-shaped openings. These symbolize the First Penguin Award, which Pausch gave in his classes to the team that attempted the boldest project but failed. Like the first penguin to jump into the ocean despite the danger of predators, the award celebrates taking risks without fear of failure.
+
+One of Randy Pausch’s best-known messages is as follows:
+
+Walls are not there to stop us. They are there to give us a chance to prove how badly we want something.
+
+2.4 Purnell Center for the Arts
+
+The Purnell Center for the Arts was named after CMU alumnus and donor J. Stanley Purnell and was completed in 1999.
+
+It serves as a major teaching and performance facility for CMU’s School of Drama and contains the Chosky Theater, a circular performance space.
+
+2.5 Warner Hall
+
+Warner Hall was named after J. C. Warner, the fourth president of CMU.
+
+J. C. Warner was also a chemist who participated in the Manhattan Project and conducted research on plutonium purification.
+
+3. Central Campus and Student Amenities
+
+3.1 Walking to the Sky
+
+Walking to the Sky is a 2006 sculpture by Jonathan Borofsky, an alumnus of CMU’s College of Fine Arts.
+
+It depicts people of different genders, races, and ages walking upward along a pole approximately 100 feet high. The work symbolizes endless academic exploration and human potential and serves as a major landmark in the central campus plaza.
+
+3.2 Cohon University Center
+
+The Cohon University Center was named after Jared Cohon, a civil and environmental engineer who served as CMU’s eighth president.
+
+A major expansion in 2016 added a fitness center with a glass exterior. Today, the building is the center of campus life, housing dining facilities, athletic facilities, meeting rooms, and student support services.
+
+CMU’s official university store is located on the lower level of the building.
+
+4. Southern Athletic Facilities
+
+4.1 Highmark Center for Health, Wellness and Athletics
+
+The Highmark Center was built with $35 million in support from Highmark Health, a healthcare company headquartered in Pittsburgh, and was completed in 2024.
+
+It is not simply an athletic facility. It is an integrated wellness center that provides physical health services, mental health counseling, and medical care in one location.
+
+4.2 Gesling Stadium
+
+Gesling Stadium was named after CMU alumnus William Gesling.
+
+It was built using the valley terrain on the southern side of campus. Rather than constructing large, separate grandstands, the stadium uses the natural slope of the hillside as spectator seating.
+
+5. Eastern Core Campus and Arts and Architecture Area
+
+5.1 Margaret Morrison Carnegie Hall
+
+Margaret Morrison Carnegie Hall was built in 1906 by Andrew Carnegie in honor of his mother, Margaret Morrison.
+
+It was originally used as a vocational school for women. Unlike the engineering buildings, which feature many gears and mechanical ornaments, this building uses curved and delicate decorations, including lotus patterns on the entrance ceiling and spinning-wheel motifs.
+
+5.2 Posner Hall
+
+Posner Hall was built with support from the Posner family. It served as the business school building until Tepper Quad was completed in 2018.
+
+5.3 Kraus Campo
+
+Kraus Campo is a rooftop garden on Posner Hall measuring approximately 100 by 150 feet. It was designed by artist Mel Bochner.
+
+Campo is an Italian word meaning a plaza or field. Therefore, Kraus Campo can be understood as “Kraus Plaza,” named after the Kraus family, who donated funds for the project.
+
+The garden contains curved walkways that resemble brushstrokes and is designed around mathematical forms and visual illusions.
+
+5.4 College of Fine Arts
+
+The College of Fine Arts building was designed by Henry Hornbostel, the architect who created the master plan for CMU’s campus, and was completed in 1912.
+
+The building was designed around the idea of making the building itself an architectural textbook for American students who could not easily travel to Europe to study architectural history.
+
+The lobby floor contains floor plans of major world landmarks, including the Parthenon and St. Peter’s Basilica, engraved at proportional scales. The ceilings and walls contain frescoes representing architectural styles from different periods, including the Renaissance and Gothic eras.
+
+Pop artist Andy Warhol studied here and earned a bachelor’s degree in Pictorial Design, a field of commercial art, in 1949.
+
+5.5 Hunt Library
+
+Hunt Library was built with a $2.8 million donation from Roy Hunt of the Hunt family, the founding family of the global aluminum company Alcoa, and was completed in 1961.
+
+Reflecting Pittsburgh’s steel and aluminum industries, the entire exterior is covered with silver aluminum framing. At night, light shines through the spaces between the aluminum panels.
+
+5.6 The Fence and The Cut
+
+The Cut is a large grassy lawn at the center of campus, and The Fence is located in the middle of it.
+
+There was once a bridge on campus where students regularly gathered, but it was removed in 1916. According to the commonly told story, members of the graduating class of 1923, who missed having such a gathering place, built a wooden fence on The Cut to create a new place for students to meet.
+
+The original fence was used as a place where students could lean, rest, and socialize. Later, a fraternity secretly painted the fence to advertise a nighttime party. This led to the tradition of student organizations painting the fence to promote events and messages.
+
+As layers of paint accumulated over several decades, the fence became significantly thicker and heavier. It was once listed in the Guinness Book of World Records as the world’s most frequently painted object. However, the weight of the paint caused it to collapse in 1989 and again in 1993. It was later replaced with a structure using a concrete core and wire mesh.
+
+Rules for Painting The Fence
+
+Painting is allowed only between midnight and sunrise.
+
+Rollers and spray paint are prohibited. Only brushes may be used.
+
+The entire fence must be painted at once. Painting only part of it is not allowed.
+
+To preserve a completed message, at least two students must stay beside the fence overnight to guard it.
+
+6. Western Engineering Quad
+
+6.1 Doherty Hall
+
+Doherty Hall was named after Robert Doherty, an electrical engineer who served as CMU’s third president. Completed in 1908, it is one of the university’s early engineering buildings.
+
+6.2 Baker Hall and Porter Hall
+
+Baker Hall and Porter Hall were named after Thomas Baker, the first president of Carnegie Tech, and John Porter, a member of the Board of Trustees, respectively.
+
+The long hallway connecting the two buildings is known as the Infinite Corridor.
+
+The building exteriors use yellow bricks known as Carnegie Yellow Brick. These bricks are said to have been chosen because black soot from Pittsburgh’s steel mills would be less noticeable on them.
+
+These buildings were not commercial manufacturing plants. During the institution’s early years as a vocational school, they were used as training spaces and machine halls where students operated large machinery and practiced metalworking.
+
+As one walks through the Infinite Corridor, subtle upward and downward slopes can be felt. This is because the buildings were constructed along the original valley terrain rather than completely removing the natural slope.
+
+There is also a story that Andrew Carnegie designed the buildings so they could be converted into factories if the school failed. However, this is closer to a campus legend than an officially verified fact.
+
+6.3 Hamerschlag Hall
+
+Hamerschlag Hall was named after Arthur Hamerschlag, the first president of Carnegie Tech, who was personally appointed by Andrew Carnegie.
+
+A Renaissance-style dome sits at the top of the building. When the building was completed in 1906, it served as a power plant that supplied electricity to the entire campus.
+
+The dome was designed to conceal the power plant’s exhaust smokestack. It can be seen as an example of integrating the functional elements of an industrial facility into the visual design of the campus.
+
+6.4 Wean Hall
+
+Wean Hall was built with a donation from industrialist Raymond Wean and was completed in 1971.
+
+It is a representative example of Brutalist architecture, in which unfinished concrete is left exposed. Its exterior resembles a massive fortress or bunker.
+
+The first floor houses La Prima Espresso, a Pittsburgh-based coffee company. La Prima has operated since 1988 using custom Italian roasting machines and is a popular space for students and researchers.
+
+6.5 ANSYS Hall
+
+ANSYS Hall was built with support from ANSYS, an engineering simulation software company, and was completed in 2019. ANSYS founder John Swanson is a CMU alumnus. He originally worked as an engineer at Westinghouse but left the company to establish his own business and develop general-purpose finite element analysis software. ANSYS software is used in a wide range of engineering fields, including finite element analysis in nuclear engineering and architectural engineering.
+
+The first floor is a large makerspace with a fully glazed exterior.
+
+6.6 Scaife Hall
+
+Scaife Hall was named in recognition of a donation from Pittsburgh’s Scaife Foundation.
+
+It recently underwent a complete renovation and is now used for research and manufacturing facilities in mechanical engineering and robotics.
+
+7. Pittsburgh Landmarks
+
+7.1 Phipps Conservatory
+
+Phipps Conservatory is a large Victorian-style glass conservatory donated by Henry Phipps, a business partner of Andrew Carnegie.
+
+Below the conservatory lies the Panther Hollow valley, which connects to Schenley Park, one of Pittsburgh’s major urban parks.
+
+Schenley Park covers approximately 1.85 square kilometers. It is about three times the size of CMU’s main campus and about three and a half times the size of the University of Pittsburgh’s main campus. It is also larger than the two campuses combined.
+
+7.2 Schenley Plaza
+
+Schenley Plaza was originally a concrete parking lot with space for approximately 280 vehicles.
+
+In 2006, it was redeveloped through an urban renewal project into approximately five acres of lawn and public recreation space.
+
+7.3 Carnegie Museums and Library Complex
+
+The Carnegie Museums and Library Complex was built by Andrew Carnegie in 1895.
+
+A single building contains the Carnegie Museum of Natural History, the Carnegie Museum of Art, the Music Hall, and the Main Library of the Carnegie Library of Pittsburgh.
+
+The Carnegie Museum of Natural History is considered one of the major natural history museums in the United States and is especially well known for its collection of Jurassic dinosaur fossils.
+
+Its signature exhibit, Diplodocus carnegii, consists largely of real fossils, with missing portions supplemented by material from other specimens and reconstructed elements.
+
+8. University of Pittsburgh
+
+8.1 Hillman Library
+
+Hillman Library is the central library of the University of Pittsburgh. It was built with support from the Henry Hillman Foundation, which also contributed to the construction of CMU’s Gates and Hillman Centers, and was completed in 1968.
+
+8.2 Heinz Memorial Chapel
+
+Heinz Memorial Chapel was built by the children of H. J. Heinz, founder of the Heinz Company, in his memory and was completed in 1938.
+
+It was designed in the French Gothic Revival style and contains 23 large stained-glass windows, some reaching approximately 73 feet in height.
+
+8.3 Cathedral of Learning
+
+The Cathedral of Learning was initiated in 1926 by John G. Bowman, then chancellor of the University of Pittsburgh.
+
+The 42-story building was planned both to accommodate the rapidly growing student population and to visually express the dignity of learning. During the Great Depression, construction continued with financial contributions from students and Pittsburgh residents.
+
+The building is approximately 535 feet tall and is known as the second-tallest university building in the world.
+
+The Commons Room on the first floor covers approximately half an acre and was built using Indiana limestone. The space was designed so that the stone and groin-vaulted arches distribute the structural load without a separately exposed steel frame.
+
+Nationality Rooms
+
+The first and third floors of the Cathedral of Learning contain the Nationality Rooms, which commemorate the cultures of immigrant communities that settled in Pittsburgh.
+
+Each classroom recreates the traditional architecture and interior design of a particular country. A distinctive feature is that these are not simply museum exhibits, but actual classrooms. Of the 31 rooms, 29 are used for classes.
+
+Korean Heritage Room
+
+The Korean Heritage Room is located in Room 324 on the third floor of the Cathedral of Learning.
+
+It was designed based on fourteenth-century Goryeo-period architecture and Myeongnyundang Hall at Sungkyunkwan.
+
+8.4 William Pitt Union
+
+The William Pitt Union originally opened in 1898 as the luxury Hotel Schenley.
+
+It was one of Pittsburgh’s leading social venues and hosted figures such as Andrew Carnegie, Henry Frick, President Theodore Roosevelt, and baseball player Babe Ruth.
+
+The University of Pittsburgh purchased the building in 1956 and converted it into a student union.
+
